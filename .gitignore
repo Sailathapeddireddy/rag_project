@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+data/
+INDO-SAKURA_Employee_Handbook_2026_V1.1.pdf
